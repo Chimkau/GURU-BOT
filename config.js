@@ -6,9 +6,9 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [JACKSON
+global.owner = [CHI-MAKU
   ['+260961334427', 'CHIMAKU, true],
-  ['+260955841163', 'INNOCENT', true], 
+  ['+260961334427', 'INNOCENT', true], 
   [''] 
 ] //Number of owners
 
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ChI BOT'
+global.botname = 'ʷᵖ✘ɌɆȺⱣɆɌ™♪'
 global.premium = 'true'
 global.packname = 'CHIMAKU' 
 global.author = '@INNOCENT
